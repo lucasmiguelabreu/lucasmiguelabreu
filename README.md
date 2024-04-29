@@ -20,6 +20,6 @@ Conecte-se comigo:
 
 ![Lucas Miguel stats](https://github-readme-stats.vercel.app/api?username=lucasmiguelabreu&show_icons=true&theme=dracula)
 <br>
-[![Lucas Miguel Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmiguelabreu)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas Miguel Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmiguelabreu&show_icons=true&theme=dracula)](https://github.com/lucasmiguelabreu/github-readme-stats)
 
 
