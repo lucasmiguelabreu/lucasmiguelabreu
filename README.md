@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Lucas Miguel
+## 👋 Olá, eu sou Lucas
 
 🚀 Desenvolvedor Fullstack apaixonado por criar soluções inovadoras, unindo design e funcionalidade para transformar ideias em realidade.<br><br>
 
