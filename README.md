@@ -22,10 +22,10 @@
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and series. I believe that our personal interests enrich our perspectives and enhance our problem-solving abilities.
 </details>
 
-<a href="https://www.linkedin.com/in/lucas-rodrigues-de-abreu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lucas-rodrigues-de-abreu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.instagram.com/devlucasabreu/profilecard/?igsh=MTlpdW13ZDJ4b2ZuZg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:devlucasmiguelabreu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://wa.me/5517996071231?text=Olá!%20Venho%20pelo%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 <div>
   <a href="https://github.com/lucasmiguelabreu"></a>
@@ -35,10 +35,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Landing Page Barber]()
-- [restaurant menu]()
-- [Links to Instagram]()
-- [Order Management System]()
+- [Landing Page Barber](https://lucasmiguelabreu.github.io/projeto-barbearia/)
+- [Restaurant menu](https://cardapio-online-bice-three.vercel.app/)
+- [Repository Finder](https://lucasmiguelabreu.github.io/Repository-Finder/)
+- [Hash #](https://lucasmiguelabreu.github.io/Hash/)
 
 
 <!-- GIF -->
@@ -50,9 +50,9 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   </div>
   
