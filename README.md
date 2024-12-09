@@ -39,6 +39,7 @@
 - [Cardápio Online para Restaurante, pedidos enviados diretamente para WhatsApp](https://cardapio-online-bice-three.vercel.app/)
 - [Localizador de Repositórios](https://lucasmiguelabreu.github.io/Repository-Finder/)
 - [Landing Page para Academia](https://lucasmiguelabreu.github.io/StyleFit/)
+- [Landing Page para Fast Food](https://lucasmiguelabreu.github.io/fast-food/)
 
 
 
