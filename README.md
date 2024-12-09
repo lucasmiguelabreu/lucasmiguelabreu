@@ -1,25 +1,25 @@
 <!--título-->
  <div id="user-content-toc">
   <ul align="center">
-     <summary><h1 style="display: inline-block">Hello World</h1></summary>
+     <summary><h1 style="display: inline-block">Transformando ideias em código, uma linha de cada vez...</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Lucas! Fullstack developer passionate about creating innovative solutions, combining design and functionality to turn ideas into reality.
+ Oi 👋, eu sou o Lucas! Desenvolvedor fullstack apaixonado por criar soluções inovadoras, combinando design e funcionalidade para transformar ideias em realidade.
 
-  - 📌 I am currently pursuing a degree in Systems Analysis and Development, while also working on personal projects to apply and enhance my skills..
+  - 📌 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, além de trabalhar em projetos pessoais para aplicar e aprimorar minhas habilidades.
 
-  - 🔭 I am seeking my first job opportunity, with the goal of pursuing my dream of becoming a Fullstack Developer.
+  - 🔭 Estou em busca da minha primeira oportunidade na área de desenvolvimento, com o objetivo de seguir meu sonho de me tornar um Desenvolvedor Fullstack.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais Sobre Mim:</summary>
 
-  - 💬 I am 30 years old, currently living in Brazil. I have experience with JavaScript, React, Node.js, SQL, and API development. Since 2023, I've been working on personal projects that have helped me develop key skills such as problem-solving, collaboration, and project management, as well as enhancing my creativity and technical expertise.
+  - 💬 Tenho 30 anos e atualmente moro no Brasil. Tenho experiência com JavaScript, React, Node.js, SQL e desenvolvimento de APIs. Desde 2023, venho trabalhando em projetos pessoais que me ajudaram a desenvolver habilidades essenciais, como resolução de problemas, colaboração e gestão de projetos, além de aprimorar minha criatividade e expertise técnica.
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and series. I believe that our personal interests enrich our perspectives and enhance our problem-solving abilities.
+  - ⚡Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e séries. Acredito que nossos interesses pessoais enriquecem nossas perspectivas e aprimoram nossa capacidade de resolver problemas.
 </details>
 
 <a href="https://www.linkedin.com/in/lucas-rodrigues-de-abreu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -34,11 +34,11 @@
 </div>
 
 <!-- Portfolio -->
-## Portfolio:
-- [Landing Page Barber](https://lucasmiguelabreu.github.io/projeto-barbearia/)
-- [Restaurant menu](https://cardapio-online-bice-three.vercel.app/)
-- [Repository Finder](https://lucasmiguelabreu.github.io/Repository-Finder/)
-- [FitPhysique](https://lucasmiguelabreu.github.io/StyleFit/)
+## Portfólio:
+- [Landing Page Para Barbearia](https://lucasmiguelabreu.github.io/projeto-barbearia/)
+- [Cardápio Online para Restaurante, pedidos enviados diretamente para WhatsApp](https://cardapio-online-bice-three.vercel.app/)
+- [Localizador de Repositórios](https://lucasmiguelabreu.github.io/Repository-Finder/)
+- [Landing Page para Academia](https://lucasmiguelabreu.github.io/StyleFit/)
 
 
 <!-- GIF -->
@@ -46,19 +46,14 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-## 🔥 Skills
+## 🔥 Habilidades
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Linguagens de Programação, Ferramentas e Frameworks</h3>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
@@ -67,6 +62,8 @@
     <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   </div>
+  
+  
 
 
 
