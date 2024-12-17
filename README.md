@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 Mais Sobre Mim:</summary>
 
-  - 💬 Tenho 30 anos e atualmente moro no Brasil. Tenho experiência com JavaScript, React, Node.js, SQL e desenvolvimento de APIs. Desde 2023, venho trabalhando em projetos pessoais que me ajudaram a desenvolver habilidades essenciais, como resolução de problemas, colaboração e gestão de projetos, além de aprimorar minha criatividade e expertise técnica.
+  - 💬 Tenho 30 anos e atualmente moro em São José do Rio Preto-SP. Tenho experiência com JavaScript, React, Node.js, SQL e desenvolvimento de APIs. Desde 2023, venho trabalhando em projetos pessoais que me ajudaram a desenvolver habilidades essenciais, como resolução de problemas, colaboração e gestão de projetos, além de aprimorar minha criatividade e expertise técnica.
 
   - ⚡Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e séries. Acredito que nossos interesses pessoais enriquecem nossas perspectivas e aprimoram nossa capacidade de resolver problemas.
 </details>
@@ -59,6 +59,9 @@
     <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="NestJS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+             
   </div>
   
   
