@@ -10,7 +10,6 @@
 
   - 📌 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, além de trabalhar em projetos pessoais para aplicar e aprimorar minhas habilidades.
 
-  - 🔭 Estou em busca da minha primeira oportunidade na área de desenvolvimento, com o objetivo de seguir meu sonho de me tornar um Desenvolvedor Fullstack.
 </p>
 
 <!-- Dropdown -->
