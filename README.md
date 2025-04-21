@@ -31,11 +31,8 @@
 
 <!-- Portfolio -->
 ## Portfólio:
-- [Landing Page Para Barbearia](https://lucasmiguelabreu.github.io/projeto-barbearia/) 
-- [Cardápio Online para Restaurante, pedidos enviados diretamente para WhatsApp](https://cardapio-online-bice-three.vercel.app/)
-- [Localizador de Repositórios](https://lucasmiguelabreu.github.io/Repository-Finder/)
+- [WebTech - Serviços digitais](https://webtechdigital.vercel.app/) 
 - [Quizz de Programação](https://quizz-programming.netlify.app/)
-- [Landing Page para Fast Food](https://lucasmiguelabreu.github.io/fast-food/)
 - [Site que exibe filmes em cartaz, com opção de favoritar, ver trailers e gerenciar favoritos.](https://abreu-flix.vercel.app/)
 
 
