@@ -7,18 +7,15 @@
 <!-- Presentation -->
 <p>
  Oi 👋, eu sou o Lucas! Desenvolvedor fullstack apaixonado por criar soluções inovadoras, combinando design e funcionalidade para transformar ideias em realidade.
-
-  - 📌 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, além de trabalhar em projetos pessoais para aplicar e aprimorar minhas habilidades.
-
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais Sobre Mim:</summary>
 
-  - 💬 Tenho 30 anos e atualmente moro em São José do Rio Preto-SP. Tenho experiência com JavaScript, React, Node.js, SQL e desenvolvimento de APIs. Desde 2023, venho trabalhando em projetos pessoais que me ajudaram a desenvolver habilidades essenciais, como resolução de problemas, colaboração e gestão de projetos, além de aprimorar minha criatividade e expertise técnica.
-
-  - ⚡Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e séries. Acredito que nossos interesses pessoais enriquecem nossas perspectivas e aprimoram nossa capacidade de resolver problemas.
+  - 💬 Atualmente moro em São José do Rio Preto-SP. Tenho experiência com JavaScript, React, Node.js, Python, SQL e desenvolvimento de APIs.
+    
+  - ⚡Gosto de ler, seja um bom livro, ouvir música, além de assistir filmes e séries. Acredito que nossos interesses pessoais enriquecem nossas perspectivas e aprimoram nossa capacidade de resolver problemas.
 </details>
 
 <a href="https://www.linkedin.com/in/lucas-rodrigues-de-abreu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
